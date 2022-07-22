@@ -6,6 +6,11 @@ Scrape all books information (http://bukabuku.com) based on category.
 pip3 install scrapy
 ```
 
+### Clone Repo
+```
+git clone https://github.com/karvanpy/ScrapingBUKABUKUCOM
+```
+
 ### Enter to bukabukucom directory
 ```bash
 cd bukabukucom
